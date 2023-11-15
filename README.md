@@ -4,7 +4,7 @@ I'm Luke; I fulfil my interest in helping others by creating software, tools, an
 
 
 #
-👩‍💻 I'm currently working on a pretty interesting Three.js portfolio project, as well as an application to help others visualize various complex topics.  
+👩‍💻 I'm currently working on a pretty interesting Three.js portfolio project, as well as a simulation application to help others visualize various complex topics.  
 
 🧠 I spend a lot of my time studying and learning interesting new things.
 
