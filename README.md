@@ -1,11 +1,10 @@
 <img src="banner.svg"></img>
 
-👩‍💻 I'm currently working on a pretty interesting Three.js portfolio project, as well as a simulation application to help others visualize various complex topics.  
+👤 Actively immersed in compelling programming ventures that explores many advanced facets.                              
 
-🧠 I spend a lot of my time studying and learning.
+🌐 Dedicated to extensive study and continuous learning as a primary focus of my time.
 
-⚡️ Fun fact... Plasma, the fourth state of matter, makes up about 99% of the observable universe
-
+🌌 A captivating fact: Plasma, the fourth state of matter, dominates about 99% of the observable universe.
 
 #
 <details>
@@ -25,5 +24,5 @@
   <summary>Note</summary>
   Due to safety and contractual considerations, some of my projects cannot be made public. If you have specific inquiries or would like to learn more about my work, please feel free to contact me directly.
 </details>
-
+  
 ---
