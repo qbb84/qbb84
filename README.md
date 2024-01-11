@@ -1,14 +1,10 @@
 <img src="banner.svg"></img>
 
-I'm Luke; I fulfil my interest in helping others by creating software, tools, and APIs and building extraordinary experiences for all. Passionate to improve. 
-
-
-#
 👩‍💻 I'm currently working on a pretty interesting Three.js portfolio project, as well as a simulation application to help others visualize various complex topics.  
 
-🧠 I spend a lot of my time studying and learning interesting new things.
+🧠 I spend a lot of my time studying and learning.
 
-⚡️ Fun fact... I first started coding when I was 15 with Python in IT class! 
+⚡️ Fun fact... Plasma, the fourth state of matter, makes up about 99% of the observable universe
 
 
 #
