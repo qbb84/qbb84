@@ -16,7 +16,7 @@
 <details>
   <summary>Github Stats</summary>
   
-![Metrics](https://metrics.lecoq.io/rewindbytes?template=terminal&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/qbb84?template=terminal&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon)
 
 </details>
 
