@@ -22,5 +22,5 @@
 
 <details>
   <summary>Note</summary>
-  Due to safety and contractual considerations, some of my projects cannot be made public. If you have specific inquiries or would like to learn more about my work, please feel free to contact me directly.
+  Due to safety and contractual considerations, some of my projects cannot be made public.
 </details>
