@@ -16,7 +16,12 @@
 <details>
   <summary>Github Stats</summary>
   
-![Metrics](https://metrics.lecoq.io/qbb84?template=terminal&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon)
+
+<a href="https://github.com/qbb84/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qbb84&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 </details>
 
