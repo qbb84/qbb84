@@ -1,5 +1,4 @@
 <img src="banner.svg"></img>
-#
 <details>
   <summary>Tech Stack</summary>
 
