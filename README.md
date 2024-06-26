@@ -1,11 +1,4 @@
 <img src="banner.svg"></img>
-
-👤 Actively immersed in compelling programming ventures that explores many advanced facets.                              
-
-🌐 Dedicated to extensive study and continuous learning as a primary focus of my time.
-
-🌌 A captivating fact: Plasma, the fourth state of matter, dominates about 99% of the observable universe.
-
 #
 <details>
   <summary>Tech Stack</summary>
