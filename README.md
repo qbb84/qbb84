@@ -11,3 +11,21 @@
   <summary>Note</summary>
   Due to safety and contractual considerations, some of my projects cannot be made public.
 </details>
+
+---
+
+ &nbsp;**Hytale Tinkering**
+
+<table>
+<tr><td width="100">
+<img src="https://github.com/user-attachments/assets/a4277f28-c30e-4959-be41-55b76659ef8e" width="90"/>
+</td><td>
+<small><b><a href="https://www.curseforge.com/hytale/mods/data-ranks">Data Ranks</a></b> — Rank management plugin built within 2 days of Hytale Early Access launch. In-game editor, hex colour support, per-rank permissions, live-reload config, and a developer API with <code>PlayerRankUpdateEvent</code>. 810+ downloads on CurseForge.</small>
+</td></tr>
+<tr><td width="100">
+<img src="https://github.com/user-attachments/assets/8a775e3d-f4ec-468d-b859-f41f95cec5f1" width="90"/>
+</td><td>
+<small><b><a href="https://github.com/qbb84/Hytale-Rhythm">Hytale-Rhythm</a></b> <i>(Beta)</i> — Beat-synchronised in-world VFX plugin driven by real-time audio analysis and custom AI. Currently in private beta — full release planned for EOY 2026.</small>
+</td></tr>
+</table>
+
